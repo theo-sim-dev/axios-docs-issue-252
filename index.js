@@ -1,4 +1,4 @@
-// Verifying this issue: https://github.com/axios/axios/issues/6846
+// Verifying this issue: https://github.com/axios/axios/issues/6846 and https://github.com/axios/axios-docs/issues/252
 const axios = require('axios');
 
 // 1. Using default axios(config)
